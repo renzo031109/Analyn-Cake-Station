@@ -1,0 +1,34 @@
+/* .bg { 
+  /* background: url(bground.gif) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover; 
+  background-size: cover;  */
+
+
+.bg{
+background-image: url(../../assets/wood.jpg) ; 
+ background-position: center; 
+ background-repeat: no-repeat;
+  background-size: cover;
+   -webkit-background-size: cover; 
+   -moz-background-size: cover;
+    -o-background-size: cover;
+     height:100%;
+     width:110%;
+     text-align: center;
+     margin:-1px 0 0 -15px;
+}
+
+#annPict{
+    width: 250px;
+    box-shadow: #555 5px 5px 10px 5px;
+}
+.aboutText{    
+    color: #f21d44  ;
+    text-shadow: 2px 2px #555;
+}
+h1{
+    color: white;
+   text-shadow: 2px 2px #f21d44; 
+}

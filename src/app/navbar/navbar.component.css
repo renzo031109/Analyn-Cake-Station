@@ -1,0 +1,29 @@
+#analynIcon{
+    margin-right: 20px;
+    width:70px;
+}
+
+nav{
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(to right,#f21d44,pink);
+    margin:0;
+}
+
+.logo{
+    color:#fff;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 1.5em;
+    margin:0;
+}
+
+ul.nav a {
+
+}
+
+ul.nav a:hover{
+
+}
+
+.active>a{
+    
+}

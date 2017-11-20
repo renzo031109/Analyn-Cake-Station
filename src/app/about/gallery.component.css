@@ -1,0 +1,21 @@
+ul {
+    padding: 0;
+    width: 1200px;
+    margin: 20px auto;
+}
+
+li{
+    display: inline;
+}
+
+.tn{
+    margin: 6px;
+    border: 4px solid #eee;
+    box-shadow: #555 1px 1px 8px 1px;
+}
+
+ #thumbnailsList .tn:hover{
+    border: 10px solid WHITE;  
+    box-shadow: #f21d44 1px 1px 5px 5px;   
+} 
+
